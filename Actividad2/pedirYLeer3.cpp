@@ -16,10 +16,12 @@ int main()
     scanf("%d", &num3);
 
     x = num1;
-    if(num2 > x) {
+    if(num2 > x)
+    {
         x = num2;
     }
-    if(num3 > x) {
+    if(num3 > x)
+    {
         x = num3;
     }
     printf("El numero mas grande es: %d\n", x);

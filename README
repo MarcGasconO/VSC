@@ -1,0 +1,4 @@
+Para compilar bien:
+
+g++ [nombrearchivo].cpp -o [nombrearchivo]
+./[nombrearchivo]

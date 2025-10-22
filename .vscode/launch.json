@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/marc/VSC",
-      "program": "/home/marc/VSC/build/Debug/outDebug",
+      "cwd": "/home/marc/VSC/Actividad5",
+      "program": "/home/marc/VSC/Actividad5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

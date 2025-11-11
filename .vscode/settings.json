@@ -60,6 +60,7 @@
     "cstdio": "cpp",
     "cstring": "cpp",
     "vector": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "cmath": "cpp"
   }
 }

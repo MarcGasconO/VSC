@@ -3,17 +3,17 @@
 using namespace std;
 
 int main() {
-    char frase[1000];
+    char frase[100];
     int contadores[5] = {0};
     char vocales[5] = {'a', 'e', 'i', 'o', 'u'};
-    int total_caracteres;
+    int totalCaracteres;
     
     printf("frase: ");
-    fgets(frase, 1000, stdin);
+    fgets(frase, 100, stdin);
     
-    total_caracteres = strlen(frase);
+    totalCaracteres = strlen(frase);
     
-    for(int i = 0; i < total_caracteres; i++) 
+    for(int i = 0; i < totalCaracteres; i++) 
     {
         char c = frase[i];
         for(int j = 0; j < 5; j++) 
